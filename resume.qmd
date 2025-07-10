@@ -5,20 +5,55 @@ title: Jonathan Oliphants's CV
 # Jonathan Oliphant
 Data Scientist
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+
+## Contact
+<div id="webaddress" style="display: inline-flex; gap: 1em; align-items: center; flex-wrap: wrap;">
+    <a href="mailto:Jonathanoliphant13@gmail.com">Jonathanoliphant13@gmail.com</a>
+    <span>385 452 1364</span>
+    <a href="https://www.linkedin.com/in/jonathanoliphantb300b42ab">LinkedIn</a>
 </div>
 
+## Education
 
-## Currently
+`Anticipated: July 2027`  
+__Brigham Young University - Idaho__  
+Bachelor of Science; Data Science  
+GPA: 4.0
 
-Standing on the shoulders of giants
+### Relevant Courses
 
-### Specialized in
+- **SQL**
+    - Designed and implemented relational databases, establishing efficient data structures.
+    - Extracted and analyzed complex datasets to answer diverse business questions utilizing advanced queries, subqueries, and Common Table Expressions (CTEs).
+    - Collaborated with a team to architect and build a functional database schema for a fictional business, gaining practical experience in database design.
+- **Applied Calculus for Data Analysis**
+    - Applied differentiation techniques to identify critical data points and inform predictive modeling strategies.
+    - Utilized integration to compute probability of various continuous random variables.
+    - Leveraged R and Mathematica to solve complex mathematical problems, enhancing computational problem-solving skills for data analysis.
+- **Data Intuitions and Insight**
+    - Developed compelling data visualizations using Tableau to identify trends and communicate insights effectively.
+    - Prepared and delivered data-driven presentations, translating raw data into clear, actionable insights for non-technical audiences.
+- **Programming with Functions**
+    - Developed Python programs to efficiently read, process, and organize external datasets, laying groundwork for data pipeline understanding.
+- **Introduction to Cybersecurity**
+    - Gained foundational understanding of cybersecurity principles, including terminal navigation and exploring file systems within virtual machine environments, relevant for data security contexts.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Experience
 
+`September 2023 - Present`  
+__Brigham Young University - Idaho__, Rexburg, ID  
+Accessibility Specialist Team Lead
+
+- Conducted thorough audits of university courses to ensure accessibility compliance, leading to the development of accessible video and document versions for diverse users.
+- Met with other team leads to increase productivity and morale of employees in the office.
+- Trained new hires on accessibility principles and overall workflow.
+- Worked with AI to build scripts using JavaScript and increased efficiency of the team.
+
+## Technical Skills
+
+- **Programming Languages:** Python, SQL, R
+- **Data Analysis & Visualization Tools:** Tableau, MySQL, Mathematica
+- **Concepts & Tools:** Data Exploration, Database Management, Virtual Machines, Terminal Navigation, AI-Assisted Programming
 
 ### Research interests
 
